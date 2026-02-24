@@ -115,7 +115,7 @@ cv:
         summary: "Scholarship (9k/year) for 2023–2027."
 
     Publications:
-      - title: Scaling Laws of SignSGD in Linear Regression: When Does It Outperform SGD?
+      - title: "Scaling Laws of SignSGD in Linear Regression: When Does It Outperform SGD?"
         authors:
           - Jihwan Kim
           - Dogyoon Song
@@ -125,7 +125,7 @@ cv:
         url: https://openreview.net/forum?id=zVwRP0ikrx
         summary: Derived scaling-law theory for one-pass signSGD in the PLRF model, including risk decomposition and compute-optimal exponents.
 
-      - title: OverModRaise: Reducing Modulus Consumption of CKKS Bootstrapping
+      - title: "OverModRaise: Reducing Modulus Consumption of CKKS Bootstrapping"
         authors:
           - Jihwan Kim
           - Jung Hee Cheon
