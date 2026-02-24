@@ -62,9 +62,7 @@
       "endDate": "",
       "score": "GPA: 4.27/4.30",
       "courses": [],
-      "highlights": [
-        "Double major in Mathematics and Computer Science."
-      ]
+      "highlights": ["Double major in Mathematics and Computer Science."]
     },
     {
       "institution": "Seoul Science High School",
@@ -145,21 +143,13 @@
       "name": "Research Interests",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Efficient optimizers for large language model training",
-        "Scaling laws",
-        "Optimization dynamics",
-        "Privacy in ML/LLMs"
-      ]
+      "keywords": ["Efficient optimizers for large language model training", "Scaling laws", "Optimization dynamics", "Privacy in ML/LLMs"]
     },
     {
       "name": "Programming",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Python",
-        "C++"
-      ]
+      "keywords": ["Python", "C++"]
     }
   ],
   "languages": [
