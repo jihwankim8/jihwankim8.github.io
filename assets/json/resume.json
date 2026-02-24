@@ -1,180 +1,171 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jihwan Kim",
+    "label": "Undergraduate (Double Major in Mathematics & Computer Science)",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "aqua4689@snu.ac.kr",
+    "phone": "(+82) 010-3119-8938",
+    "summary": "Undergraduate at Seoul National University with research interests in efficient optimizers for large language model training, optimizer theory (scaling laws, optimization dynamics), and privacy in machine learning and large language models.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Seoul",
+      "countryCode": "KR",
+      "region": "South Korea"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "aqua4689jh",
+        "url": "https://github.com/aqua4689jh"
+      }
+    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "Optimization & Machine Learning Laboratory",
+      "position": "Researcher",
+      "location": "Seoul, South Korea",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "summary": "Research on the theory of neural scaling laws, with a focus on scaling-law analysis of one-pass signSGD in the power-law random features (PLRF) model.",
+      "highlights": [
+        "Advisor: Chulhee Yun",
+        "Topic: Theory of Neural Scaling Law",
+        "Developed scaling-law theory for one-pass signSGD in the PLRF model, deriving a four-term risk decomposition and compute-optimal exponents."
+      ]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "Cryptography Laboratory",
+      "position": "Researcher",
+      "location": "Seoul, South Korea",
+      "startDate": "2024-01-01",
+      "endDate": "2024-08-01",
+      "summary": "Research on homomorphic encryption, focusing on improving the efficiency of CKKS bootstrapping; implemented proposed algorithm in C++.",
+      "highlights": [
+        "Advisor: Junghee Cheon",
+        "Topic: Homomorphic Encryption",
+        "Proposed an algorithm to enhance the efficiency of CKKS bootstrapping.",
+        "Implemented the proposed algorithm with C++ (code: https://github.com/aqua4689jh/OverModRaise)."
+      ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "Seoul National University",
+      "location": "Seoul, South Korea",
+      "url": "",
+      "area": "Mathematics and Computer Science",
+      "studyType": "Double Major (B.S. candidate)",
+      "startDate": "2023-03-01",
+      "endDate": "",
+      "score": "GPA: 4.27/4.30",
+      "courses": [],
+      "highlights": [
+        "Double major in Mathematics and Computer Science."
+      ]
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
+      "institution": "Seoul Science High School",
+      "location": "Seoul, South Korea",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "2020-03-01",
+      "endDate": "2023-02-01",
+      "score": "GPA: 4.24/4.30",
       "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Simon Marais Mathematics Competition (Pairs)",
+      "date": "2025-10-01",
+      "awarder": "Simon Marais Mathematics Competition",
+      "url": "",
+      "summary": "Pairs 7th place (7/448 = 2%)."
     },
     {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
+      "title": "Korean Undergraduates Mathematics Competition",
+      "date": "2024-11-01",
+      "awarder": "Korean Undergraduates Mathematics Competition",
+      "url": "",
+      "summary": "Gold Prize."
+    },
+    {
+      "title": "National Cryptography Contest",
+      "date": "2024-10-01",
+      "awarder": "National Cryptography Contest",
+      "url": "",
+      "summary": "Special Prize (related to OverModRaise)."
+    },
+    {
+      "title": "Simon Marais Mathematics Competition (Individual)",
+      "date": "2023-10-01",
+      "awarder": "Simon Marais Mathematics Competition",
+      "url": "",
+      "summary": "Individual 8th place (8/442 = 2%)."
+    },
+    {
+      "title": "Dean's List (Department of Natural Science)",
+      "date": "2024-01-01",
+      "awarder": "Seoul National University",
+      "url": "",
+      "summary": "Dean's List (2023, 2024)."
+    },
+    {
+      "title": "Korea Presidential Science Scholarship",
+      "date": "2023-01-01",
+      "awarder": "Korea Presidential Science Scholarship",
+      "url": "",
+      "summary": "Scholarship (9k/year) for 2023–2027."
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
-    }
-  ],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Scaling Laws of SignSGD in Linear Regression: When Does It Outperform SGD?",
+      "publisher": "International Conference on Learning Representations (ICLR)",
+      "releaseDate": "2026-01-01",
+      "url": "https://openreview.net/forum?id=zVwRP0ikrx",
+      "summary": "Scaling-law analysis of one-pass signSGD in the power-law random features (PLRF) model, deriving a four-term risk decomposition and compute-optimal exponents."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "OverModRaise: Reducing Modulus Consumption of CKKS Bootstrapping",
+      "publisher": "IACR Communications in Cryptology, 2(3)",
+      "releaseDate": "2025-01-01",
+      "url": "https://doi.org/10.62056/a3n5qjp10",
+      "summary": "Proposed an algorithm that improves CKKS bootstrapping efficiency by reducing modulus consumption; implemented in C++."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Research Interests",
+      "level": "",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Efficient optimizers for large language model training",
+        "Scaling laws",
+        "Optimization dynamics",
+        "Privacy in ML/LLMs"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "Python",
+        "C++"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "Korean",
+      "fluency": "Mother tongue",
       "icon": ""
     },
     {
@@ -185,37 +176,23 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Research",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Efficient optimizers for large language model training",
+        "Theory of neural network optimizers (scaling laws, optimization dynamics)",
+        "Privacy in machine learning and large language models"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    },
-    {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    }
-  ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "name": "Selected Courses",
+      "summary": "Mathematics: Partial Differential Equations, Measure Theory and Probability, Fourier Analysis, Topology, Linear Algebra, Modern Algebra, Differential Geometry, Sets and Mathematical Logic, Mathematical algorithms. Computer Science: Advanced Algorithms, Computer Architecture, Data Structures, Cryptography, Computer Vision. Machine Learning: Reinforcement Learning, Search, and Test-Time Scaling of Large Language Models, Machine learning and optimization for 3D data, AI Robotics: Robot Foundation Model, Mathematical Machine Learning Theory, Basics of Deep Learning.",
+      "highlights": [],
+      "startDate": "2023-03-01",
+      "endDate": ""
     }
   ]
 }
