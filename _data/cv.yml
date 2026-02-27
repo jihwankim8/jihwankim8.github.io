@@ -1,9 +1,6 @@
 cv:
   name: Jihwan Kim
-  label: Undergraduate (Double Major in Mathematics & Computer Science)
   email: aqua4689@snu.ac.kr
-  location: "Seoul, South Korea"
-  image: ""
 
   social_networks:
     - network: GitHub
@@ -23,26 +20,18 @@ cv:
     Education:
       - institution: Seoul National University
         location: Seoul, South Korea
-        url: ""
         area: Mathematics and Computer Science
-        studyType: Double Major (B.S. candidate)
+        studyType: Bachelor of Science
         start_date: 2023-03
         end_date: ""
         score: "GPA: 4.27/4.30"
-        courses: ""
-        highlights:
-          - Double major in Mathematics and Computer Science.
 
       - institution: Seoul Science High School
         location: Seoul, South Korea
-        url: ""
-        area: ""
         studyType: High School Diploma
         start_date: 2020-03
         end_date: 2023-02
         score: "GPA: 4.24/4.30"
-        courses: ""
-        highlights: []
 
     Experience:
       - company: Optimization & Machine Learning Laboratory
@@ -50,22 +39,18 @@ cv:
         location: Seoul, South Korea
         start_date: 2025-01
         end_date: ""
-        summary: Research on scaling-law theory for one-pass signSGD in the power-law random features (PLRF) model.
         highlights:
           - "Advisor: Chulhee Yun"
           - "Developed a four-term risk decomposition and compute-optimal exponents for one-pass signSGD in PLRF."
-          - "Topic: Theory of Neural Scaling Law (related to publication: Scaling Laws of signSGD in Linear Regression)."
 
       - company: Cryptography Laboratory
         position: Researcher
         location: Seoul, South Korea
         start_date: 2024-01
         end_date: 2024-08
-        summary: Research on improving CKKS bootstrapping efficiency; implemented proposed algorithm in C++.
         highlights:
           - "Advisor: Junghee Cheon"
           - "Proposed an algorithm to enhance the efficiency of CKKS bootstrapping."
-          - "Implemented the proposed algorithm in C++ (code: https://github.com/aqua4689jh/OverModRaise)."
 
 
     Awards:
@@ -134,20 +119,6 @@ cv:
 
     Skills:
       - name: Programming
-        level: Advanced
-        icon: fa-solid fa-hashtag
         keywords: "Python, C++"
-      - name: Research
-        level: Advanced
-        icon: fa-solid fa-hashtag
-        keywords: "Optimizer theory, Scaling laws, Optimization dynamics, Privacy in ML"
-
-    Languages:
-      - name: Korean
-        summary: "Mother tongue"
-      - name: English
-        summary: "Fluent"
-
-    Research Interests:
-        keywords: "Efficient optimizers for LLM training, Scaling laws, Optimization dynamics, Privacy in ML/LLMs"
-
+      - name: Languages
+        keywords: "Korean (mother tongue), English (fluent)"
