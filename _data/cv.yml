@@ -14,9 +14,8 @@ cv:
       username: example
 
   address:
-    street: ""
     city: Seoul
-    region: ""
+    region: South Korea
     postalCode: ""
     countryCode: KR
 
@@ -68,7 +67,6 @@ cv:
           - "Proposed an algorithm to enhance the efficiency of CKKS bootstrapping."
           - "Implemented the proposed algorithm in C++ (code: https://github.com/aqua4689jh/OverModRaise)."
 
-    Volunteer: []
 
     Awards:
       - title: Simon Marais Mathematics Competition (Pairs)
@@ -150,13 +148,6 @@ cv:
       - name: English
         summary: "Fluent"
 
-    Interests:
-      - name: Research Interests
-        icon: fa-solid fa-tag
+    Research Interests:
         keywords: "Efficient optimizers for LLM training, Scaling laws, Optimization dynamics, Privacy in ML/LLMs"
 
-    Certificates: []
-
-    Projects: []
-
-    References: []
