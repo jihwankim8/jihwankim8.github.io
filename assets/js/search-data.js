@@ -28,10 +28,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-our-paper-on-scaling-law-of-signsgd-is-accepted-at-iclr-2026",
+            },},{id: "news-our-paper-on-scaling-law-of-signsgd-is-accepted-at-iclr-2026",
           title: 'Our paper on Scaling Law of SignSGD is accepted at ICLR 2026.',
           description: "",
           section: "News",},{id: "projects-project-1",
