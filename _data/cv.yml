@@ -2,9 +2,8 @@ cv:
   name: Jihwan Kim
   label: Undergraduate (Double Major in Mathematics & Computer Science)
   email: aqua4689@snu.ac.kr
-  location: Seoul, South Korea
+  location: "Seoul, South Korea"
   image: ""
-  summary: Undergraduate at Seoul National University with research interests in efficient optimizers for LLM training, optimizer theory (scaling laws, optimization dynamics), and privacy in ML/LLMs.
 
   social_networks:
     - network: GitHub
