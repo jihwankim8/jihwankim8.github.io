@@ -22,22 +22,22 @@ cv:
         location: Seoul, South Korea
         area: Mathematics and Computer Science
         studyType: Bachelor of Science
-        start_date: 2023-03
+        start_date: 2023.03
         end_date: ""
         score: "GPA: 4.27/4.30"
 
       - institution: Seoul Science High School
         location: Seoul, South Korea
         studyType: High School Diploma
-        start_date: 2020-03
-        end_date: 2023-02
+        start_date: 2020.03
+        end_date: 2023.02
         score: "GPA: 4.24/4.30"
 
     Experience:
       - company: Optimization & Machine Learning Laboratory
         position: Researcher
         location: Seoul, South Korea
-        start_date: 2025-01
+        start_date: 2025.01
         end_date: ""
         highlights:
           - "Advisor: Chulhee Yun"
@@ -46,8 +46,8 @@ cv:
       - company: Cryptography Laboratory
         position: Researcher
         location: Seoul, South Korea
-        start_date: 2024-01
-        end_date: 2024-08
+        start_date: 2024.01
+        end_date: 2024.08
         highlights:
           - "Advisor: Junghee Cheon"
           - "Proposed an algorithm to enhance the efficiency of CKKS bootstrapping."
@@ -55,45 +55,26 @@ cv:
 
     Awards:
       - title: Simon Marais Mathematics Competition (Pairs)
-        authors: []
-        date: 2025-10
-        awarder: Simon Marais Mathematics Competition
-        url: ""
+        date: 2025.10
         summary: "Pairs 7th place (7/448 = 2%)."
 
       - title: Korean Undergraduates Mathematics Competition
-        authors: []
-        date: 2024-11
-        awarder: Korean Undergraduates Mathematics Competition
-        url: ""
+        date: 2024.11
         summary: "Gold Prize."
 
       - title: National Cryptography Contest
-        authors: []
-        date: 2024-10
-        awarder: National Cryptography Contest
-        url: ""
+        date: 2024.10
         summary: "Special Prize (related to OverModRaise)."
 
       - title: Simon Marais Mathematics Competition (Individual)
-        authors: []
-        date: 2023-10
-        awarder: Simon Marais Mathematics Competition
-        url: ""
+        date: 2023.10
         summary: "Individual 8th place (8/442 = 2%)."
 
       - title: Dean's List (Department of Natural Science)
-        authors: []
-        date: 2024
+        date: 2023, 2024
         awarder: Seoul National University
-        url: ""
-        summary: "Dean's List (2023, 2024)."
 
       - title: Korea Presidential Science Scholarship
-        authors: []
-        date: 2023
-        awarder: Korea Presidential Science Scholarship
-        url: ""
         summary: "Scholarship (9k/year) for 2023–2027."
 
     Publications:
