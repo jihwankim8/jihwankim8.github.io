@@ -23,7 +23,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student at Seoul National University. I am interested in both the theory and practice of deep learning.
-Design of efficient optimizers for large language model training.
-Theory of neural network optimizers (scaling laws, optimization dynamics).
-Privacy in machine learning and large language models
+I am an undergraduate at Seoul National University interested in deep learning theory and practice, especially optimizer theory (scaling laws and optimization dynamics), efficient optimizers for large language model training, and privacy in ML and LLMs.
