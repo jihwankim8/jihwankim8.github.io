@@ -15,7 +15,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 1 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -24,3 +24,6 @@ latest_posts:
 ---
 
 I am an undergraduate student at Seoul National University. I am interested in both the theory and practice of deep learning.
+Design of efficient optimizers for large language model training.
+Theory of neural network optimizers (scaling laws, optimization dynamics).
+Privacy in machine learning and large language models
