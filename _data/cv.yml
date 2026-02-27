@@ -10,14 +10,6 @@ cv:
     - network: X
       username: example
 
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
-
-
 
   sections:
     Education:
@@ -78,8 +70,8 @@ cv:
         awarder: Seoul National University
 
       - title: Korea Presidential Science Scholarship
-        date : 2023–2027
-        summary: "Scholarship (9k/year)."
+        date : 2023
+        summary: "Scholarship (9k/year) for 2023-2027."
 
     Publications:
       - title: "Scaling Laws of SignSGD in Linear Regression: When Does It Outperform SGD?"
