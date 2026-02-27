@@ -10,11 +10,6 @@ cv:
     - network: X
       username: example
 
-  address:
-    city: Seoul
-    region: South Korea
-    postalCode: ""
-    countryCode: KR
 
   sections:
     Education:
@@ -75,7 +70,8 @@ cv:
         awarder: Seoul National University
 
       - title: Korea Presidential Science Scholarship
-        summary: "Scholarship (9k/year) for 2023–2027."
+        date : 2023–2027
+        summary: "Scholarship (9k/year)."
 
     Publications:
       - title: "Scaling Laws of SignSGD in Linear Regression: When Does It Outperform SGD?"
