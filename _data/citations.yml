@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-03-04'
+  last_updated: '2026-03-16'
 papers:
+  SmoPWusAAAAJ:UeHWp8X0CEIC:
+    citations: 0
+    title: 'Scaling Laws of SignSGD in Linear Regression: When Does It Outperform SGD?'
+    year: '2026'
   SmoPWusAAAAJ:u5HHmVD_uO8C:
     citations: 2
     title: 'OverModRaise: Reducing Modulus Consumption of CKKS Bootstrapping'
