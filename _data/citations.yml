@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-04-06'
 papers:
   SmoPWusAAAAJ:UeHWp8X0CEIC:
-    citations: 0
+    citations: 1
     title: 'Scaling Laws of SignSGD in Linear Regression: When Does It Outperform SGD?'
     year: '2026'
   SmoPWusAAAAJ:u5HHmVD_uO8C:
