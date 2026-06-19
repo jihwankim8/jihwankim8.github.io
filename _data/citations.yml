@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-19'
 papers:
   SmoPWusAAAAJ:IjCSPb-OGe4C:
     citations: 1
@@ -10,6 +10,6 @@ papers:
     title: 'Scaling Laws of SignSGD in Linear Regression: When Does It Outperform SGD?'
     year: '2026'
   SmoPWusAAAAJ:u5HHmVD_uO8C:
-    citations: 3
+    citations: 5
     title: 'OverModRaise: Reducing Modulus Consumption of CKKS Bootstrapping'
     year: '2025'
