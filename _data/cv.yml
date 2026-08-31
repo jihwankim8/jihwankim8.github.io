@@ -84,6 +84,14 @@ cv:
         url: https://openreview.net/forum?id=zVwRP0ikrx
         summary: Derived scaling-law theory for one-pass signSGD in the PLRF model, including risk decomposition and compute-optimal exponents.
 
+      - title: "Robust and Consistent Ski Rental with Distributional Advice"
+        authors:
+          - Jihwan Kim
+          - Chenglin Fan
+        publisher: International Conference on Machine Learning (ICML)
+        releaseDate: 2026
+        url: https://openreview.net/forum?id=42RDNNJdWf
+
       - title: "OverModRaise: Reducing Modulus Consumption of CKKS Bootstrapping"
         authors:
           - Jihwan Kim
